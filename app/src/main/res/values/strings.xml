@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Hello Aqib</string>
+    <string name="avatar">Avatar</string>
+
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias eaque earum fugit
+        ipsa maxime perferendis quidem quos sapiente tempora voluptatem. Aliquid, assumenda, atque cum
+        cupiditate delectus dolor ducimus facere in libero nobis numquam praesentium quasi ullam unde voluptas?
+        Accusamus beatae cumque eius et minima necessitatibus qui tempore, tenetur vitae voluptate!
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias eaque earum fugit
+        ipsa maxime perferendis quidem quos sapiente tempora voluptatem. Aliquid, assumenda, atque cum
+        cupiditate delectus dolor ducimus facere in libero nobis numquam praesentium quasi ullam unde voluptas?
+        Accusamus beatae cumque eius et minima necessitatibus qui tempore, tenetur vitae voluptate!
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias eaque earum fugit
+        ipsa maxime perferendis quidem quos sapiente tempora voluptatem. Aliquid, assumenda, atque cum
+        cupiditate delectus dolor ducimus facere in libero nobis numquam praesentium quasi ullam unde voluptas?
+        Accusamus beatae cumque eius et minima necessitatibus qui tempore, tenetur vitae voluptate!</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="write_nick_name">Write the Nick Name!</string>
+    <string name="done">Done</string>
+</resources>
